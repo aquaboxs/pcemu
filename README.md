@@ -17,8 +17,8 @@ PCEmu - x86_64/i386 Computer Emulator (WIP)
 *SeaBios PC (QEMU/WIP)* **<-- which means it set to default.**
 
 # TODO
-[ ] recreate SSE, SSE2, and SSE3 in src/cpu folder
-[ ] create geforce 7600 gs in src/video folder
+recreate SSE, SSE2, and SSE3 in src/cpu folder
+create geforce 7600 gs in src/video folder
 **More TODO list coming soon.**
 
 # License
